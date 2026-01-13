@@ -4,7 +4,7 @@
 
 ### By Tuukka Flink
 
-![alt text](https://raw.githubusercontent.com/Tuukkaflink05/4A00HB30-3005-introduction-to-programming-flink-tuukka/refs/heads/main/batman-project/src/images/3x3-board.png?token=GHSAT0AAAAAADKA2NPLNBZASCBM4ZISQBXC2LCQWSA)
+![alt text](https://raw.githubusercontent.com/Tuukkaflink05/TicTacToe/refs/heads/main/images/3x3-board.png)
 
 ## prerequisites
 
@@ -18,11 +18,11 @@
 
 - Supports multi sized boards from a 2x2 to as big as you want.
 
-![alt text](https://raw.githubusercontent.com/Tuukkaflink05/4A00HB30-3005-introduction-to-programming-flink-tuukka/refs/heads/main/batman-project/src/images/variable-board-size.png?token=GHSAT0AAAAAADKA2NPKAUBIXRIFC6HMXFWI2LCQX4A)
+![alt text](https://raw.githubusercontent.com/Tuukkaflink05/TicTacToe/refs/heads/main/images/variable-board-size.png)
 
 - Supports variable number of consecutive 'x' or 'o' needed to win.
 
-![alt text](https://raw.githubusercontent.com/Tuukkaflink05/4A00HB30-3005-introduction-to-programming-flink-tuukka/refs/heads/main/batman-project/src/images/variable-cons.png?token=GHSAT0AAAAAADKA2NPKA2L662QOYHI4NFY62LCQYJA)
+![alt text](https://raw.githubusercontent.com/Tuukkaflink05/TicTacToe/refs/heads/main/images/variable-cons.png)
 
 - Features a highly sophisticated AI which is unbeatable on board sizes ranging from a 3x3 all the way up to a 4x4.
 
@@ -54,4 +54,4 @@ How to Install Tic Tac Toe
   - Subsequent play times will be faster!
 - Stores quite large text files ``.txt`` (up to ``400 MB`` ) as a cache to speed up the highly sophisticated unbeatable AI
 
-![alt text](https://raw.githubusercontent.com/Tuukkaflink05/4A00HB30-3005-introduction-to-programming-flink-tuukka/refs/heads/main/batman-project/src/images/I-Lost.png?token=GHSAT0AAAAAADKA2NPKGJZHYA6VTKRFVF4G2LCQYYA)
+![alt text](https://raw.githubusercontent.com/Tuukkaflink05/TicTacToe/refs/heads/main/images/I-Lost.png)
